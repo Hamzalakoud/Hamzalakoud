@@ -2,7 +2,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Lakoud!;" />
 </h1>
-<img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif">
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;"
+>
+  <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
+</div>
 
 <hr>
 <h3 align="center">A passionate software developer from Tunisia TN</h3>
