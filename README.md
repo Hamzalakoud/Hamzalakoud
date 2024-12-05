@@ -15,9 +15,9 @@
  
  🔭 I’m currently working on **a website **
  
- 🌱 I’m currently learning **Docker, AWS**
+ 🌱 I’m currently learning **React**
 
-💬 Ask me about **Node.js, React, postgresql,java... 
+💬 Ask me about **Docker, java, Python,... 
 
 
  </div>
@@ -59,8 +59,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Hamzalakoud/Hamzalakoud/blob/output/github-contribution-grid-snake-dark.svg" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hamzalakoud/Hamzalakoud/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>
 
