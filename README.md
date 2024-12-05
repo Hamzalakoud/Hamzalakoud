@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Lakoud!;" />
 </h1>
 <div align="center">
-  <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
+  <img src="file:///C:/Users/hamza/Downloads/pixel-jeff-clipa-s.gif" alt="Programmer GIF">
 </div>
 
 <hr>
