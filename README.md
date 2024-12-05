@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Lakoud!;" />
 </h1>
-<img src="https://tenor.com/fr/view/programmer-gif-19019116.gif">
+<img align="center" src="https://tenor.com/fr/view/programmer-gif-19019116.gif">
 
 <hr>
 <h3 align="center">A passionate software developer from Tunisia TN</h3>
@@ -57,7 +57,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/adam12bT/adam12bT/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Hamzalakoud/Hamzalakoud/blob/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
