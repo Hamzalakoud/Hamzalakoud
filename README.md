@@ -14,9 +14,7 @@
  
  🔭 I’m currently working on **a website **
  
- 🌱 I’m currently learning **React**
-
-💬 Ask me about **Docker, java, Python,... 
+💬 Ask me about **Docker, java, Python,React... 
 
 
  </div>
